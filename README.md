@@ -1,4 +1,4 @@
-Minimizing the least squares error
+Minimizing the least squares error with quadratic regularization
 ===============
 # In this Notebook, 
 1. we show that minimizing the least squares error in a regression context is related to a Gaussian assumption of the error distribution
